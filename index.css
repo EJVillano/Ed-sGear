@@ -1,0 +1,12 @@
+.logo{
+    display: inline;
+    height: 5rem;
+    border-radius: 50%;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.carousel
